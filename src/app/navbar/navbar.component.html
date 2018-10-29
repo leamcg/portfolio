@@ -1,0 +1,25 @@
+<nav [ngClass]="{'opened': navIsOpen}">
+  <div class="nav-brand">Léa Gardavaud</div>
+  <div class="nav-burger" (click)="toggleNav()">
+    <div class="nav-burger-line"></div>
+    <div class="nav-burger-line"></div>
+    <div class="nav-burger-line"></div>
+  </div>
+  <ul class="nav-menu" (click)="toggleNav(true)">
+    <li class="nav-menu-item">
+      <button [ngx-scroll-to]="'#about'" class="nav-menu-link">{{ 'MENU.ABOUT' | translate }}</button>
+    </li>
+    <li class="nav-menu-item">
+      <button [ngx-scroll-to]="'#projects'" class="nav-menu-link">{{ 'MENU.PROJECTS' | translate }}</button>
+    </li>
+    <li class="nav-menu-item">
+      <button [ngx-scroll-to]="'#contact'" class="nav-menu-link">{{ 'MENU.CONTACT' | translate }}</button>
+    </li>
+    <li class="nav-menu-item">
+      <a href="http://sites.leagardavaud.com" class="nav-menu-link highlight" title="Bookmarks of my favorite websites">{{ 'MENU.SITES_I_LIKE' | translate }}</a>
+    </li>
+    <li class="nav-menu-item">
+      <button class="nav-menu-link" (click)="switchLang('fr')">Fr</button> / <button class="nav-menu-link" (click)="switchLang('en')">En</button>
+    </li>
+  </ul>
+</nav>

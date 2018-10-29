@@ -1,0 +1,65 @@
+{
+  "MENU": {
+    "ABOUT": "À propos",
+    "PROJECTS": "Projets",
+    "CONTACT": "Contact",
+    "SITES_I_LIKE": "Sites favoris"
+  },
+  "CONTENT": {
+    "INTRO_01": "Hello, je m'appelle Léa Gardavaud. Je suis une développeur web basée à Lausanne",
+    "INTRO_02": ", avec une passion pour le design d'interfaces. Je suis actuellement disponible pour du",
+    "INTRO_LINK": "travail en freelance",
+    "NOT_FOUND_TEXT_01": "Désolé, cette page n'existe pas",
+    "NOT_FOUND_TEXT_02": "mais tu peux aller sur la",
+    "NOT_FOUND_LINK": "page principale",
+    "PROJECTS": {
+      "PROJECT": "Le projet",
+      "TYPE": "Type",
+      "ROLE": "Role",
+      "TECHNOLOGIES": "Technologies"
+    },
+    "NACIS": {
+      "TITLE": "Application de gestion de badges",
+      "TYPE": "Application web",
+      "ROLE": "Designer & Développeur front-end",
+      "TECHNOLOGIES": "Angular 5 (Typescript), TFS, HTML/CSS (Sass)",
+      "DESCRIPTION": "Le client, une des plus grosses entreprises d'agroalimentaire mondial, désirait améliorer la durabilité, la qualité, l'usabilité et la capacité du côté utilisateur de leur écosystème de gestion de badge et d'accès. Pour cela, j'ai oeuvré au développement d'un système centralisé robuste et d'une expérience front-end harmonisée pour les utilisateurs finaux. Dans ce projet, j'ai tout d'abord travaillé en amont sur l'expérience utilisateur et le design d'interface de l'application, avant de rejoindre l'équipe de développement en temps que développeur front-end."
+    },
+    "PULSE": {
+      "TITLE": "Application interne de sondage de satisfaction d'employés",
+      "TYPE": "Application web",
+      "ROLE": "Développeur front-end",
+      "TECHNOLOGIES": "AngularJS, Git, Gulp, HTML/CSS (Sass)",
+      "DESCRIPTION": "Le client, une des plus grandes entreprises de télécommunication en Suisse, a décidé d'externaliser les opérations et le développement de leur outil de sondage pour leurs employés. J'ai travaillé en tant que développeur front-end afin d'intégrer de nouvelles fonctionnalités dans l'outil, ainsi que d'implémenter le nouveau design de l'application."
+    },
+    "CROC": {
+      "TITLE": "Croc The Rock Festival",
+      "TYPE": "Site web",
+      "ROLE": "Designer & Developer",
+      "TECHNOLOGIES": "Wordpress, Javascript, HTML/CSS",
+      "DESCRIPTION": "Croc the Rock est un festival 'à taille humaine' aux portes de Lausanne, créé par 'Les amateurs de bon son', une association à but non-lucrative. Pour leur 5ème édition, l'équipe de Croc the Rock désirait une nouvelle identité visuelle ainsi qu'un nouveau site internet pour leur festival. À partir de la nouvelle ligne graphique mise en place par leur designer, j'ai développé un site internet, basé sur le CMS Wordpress.",
+      "LINK": "Voir le site en ligne"
+    },
+    "ELODIE": {
+      "TITLE": "Elodie Sogan",
+      "TYPE": "Site web",
+      "ROLE": "Designer & Développeur front-end",
+      "TECHNOLOGIES": "Kirby CMS, Javascript, HTML/CSS",
+      "DESCRIPTION": "Pour booster sa carrière, Elodie Sogan avait besoin d'un portfolio en ligne afin de poster ses photos et de pouvoir être contactée. Elle m'a demandé de lui créer un site internet, pour lequel j'ai utilisé le CMS Kirby pour créer un site one-page.",
+      "LINK": "Voir le site en ligne"
+    },
+    "W2": {
+      "TITLE": "W2 Architekten",
+      "TYPE": "Site web",
+      "ROLE": "Développeur front-end",
+      "TECHNOLOGIES": "Javascript (JQuey), Git, HTML/CSS (Sass), Silverstripe, Gulp",
+      "DESCRIPTION": "Durant mon stage chez Arillo, j'ai eu l'opportunité de travailler sur un projet pour une agence d'architecture à Berne. Mon rôle dans ce projet était celui de développeur front-end.",
+      "LINK": "Voir le site en ligne"
+    }
+  },
+  "FOOTER": {
+    "TEXT_LEFT_01": "N'hésitez pas à me",
+    "LINK_LEFT": "contacter par email",
+    "TEXT_LEFT_02": "ou à me suivre sur les réseaux sociaux."
+  }
+}

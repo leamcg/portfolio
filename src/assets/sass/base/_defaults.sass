@@ -1,0 +1,51 @@
+//============================================
+// Defaults
+//============================================
+
+*:focus
+  outline: none !important
+
+
+body
+  background-color: $c-bg
+  font-family: "Overpass", Helvetica, Arial, sans-serif
+  margin: 0
+  font-weight: 300
+  color: $c-lighter-grey
+  letter-spacing: 0.05em
+
+
+h2, h3, h4
+  font-weight: 300
+  color: $c-darker-grey
+
+
+h1
+  font-weight: 300
+  color: $c-lighter-grey
+  @media screen and (min-width: $medium)
+    font-size: 2em
+
+
+a
+  color: $c-dark-grey
+  text-decoration: none
+  position: relative
+  transition: color 0.2s ease-out
+
+  &:hover
+    color: $c-lighter-grey
+
+
+.content
+  display: flex
+  flex-direction: column
+  margin: 0 20px
+  align-items: center
+  @media screen and (min-width: $medium)
+    margin: 0 15vw
+  @media screen and (min-width: $large)
+    width: 980px
+    max-width: 980px
+    margin: 0 auto
+

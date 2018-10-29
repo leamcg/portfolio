@@ -1,0 +1,65 @@
+{
+  "MENU": {
+    "ABOUT": "About",
+    "PROJECTS": "Projects",
+    "CONTACT": "Contact",
+    "SITES_I_LIKE": "Favorite websites"
+  },
+  "CONTENT": {
+    "INTRO_01": "Hi, my name is Léa Gardavaud. I'm a freelance front-end developer with a passion for design interfaces from Lausanne, Switzerland",
+    "INTRO_02": ". I'm currently available for",
+    "INTRO_LINK": "freelance work",
+    "NOT_FOUND_TEXT_01": "Sorry this page doesn't exist",
+    "NOT_FOUND_TEXT_02": "but here is a link to the",
+    "NOT_FOUND_LINK": "homepage",
+    "PROJECTS": {
+      "PROJECT": "The project",
+      "TYPE": "Type",
+      "ROLE": "Role",
+      "TECHNOLOGIES": "Technologies"
+    },
+    "NACIS": {
+      "TITLE": "Badge management application",
+      "TYPE": "Web application",
+      "ROLE": "Designer & Front-end developer",
+      "TECHNOLOGIES": "Angular 5 (Typescript), TFS, HTML/CSS (Sass)",
+      "DESCRIPTION": "The client, one of the biggest food and drink company in the world, needed to improve the sustainability, quality, usability and capacity of the facing applications part of their badge management and access ecosystem. To do so, I worked to build a robust centralized system as well as a harmonised front-end experience to end-users. In this project, I first worked on the user experience and interface of the app before joining the development team as a front-end developer."
+    },
+    "PULSE": {
+      "TITLE": "Internal satisfaction survey application",
+      "TYPE": "Web application",
+      "ROLE": "Front-end developer",
+      "TECHNOLOGIES": "AngularJS, Git, Gulp, HTML/CSS (Sass)",
+      "DESCRIPTION": "The client, a major telecommunications provider in Switzerland, decided to outsource the operations and further development of their employee survey tool. I worked as a front-end developer, integrating new functionalities to the tool, as well as implementing the updated design."
+    },
+    "CROC": {
+      "TITLE": "Croc The Rock Festival",
+      "TYPE": "Website",
+      "ROLE": "Designer & Developer",
+      "TECHNOLOGIES": "Wordpress, Javascript, HTML/CSS",
+      "DESCRIPTION": "Croc the Rock is a local festival in Switzerland created by 'Les amateurs de bon son', a non-lucrative association. For its 5th edition, the Croc The Rock team wanted a new visual idendity and a new website for their festival. Based on their designer's graphic line, I designed and developed a website for them with the Wordpress CMS.",
+      "LINK": "Watch it live"
+    },
+    "ELODIE": {
+      "TITLE": "Elodie Sogan",
+      "TYPE": "Website",
+      "ROLE": "Designer & Developer",
+      "TECHNOLOGIES": "Kirby CMS, Javascript, HTML/CSS",
+      "DESCRIPTION": "To boost her career, Elodie Sogan needed an online portfolio where she could post her photos and have people contact her. She asked me to develop and design her website, for which I used the Kirby CMS to model a one-page website.",
+      "LINK": "Watch it live"
+    },
+    "W2": {
+      "TITLE": "W2 Architekten",
+      "TYPE": "Website",
+      "ROLE": "Front-end developer",
+      "TECHNOLOGIES": "Javascript (JQuey), Git, HTML/CSS (Sass), Silverstripe, Gulp",
+      "DESCRIPTION": " During my internship at Arillo, I got to work with the team on a project for an architects' agency from Bern. My role in this project was to develop the front-end of the website.",
+      "LINK": "Watch it live"
+    }
+  },
+  "FOOTER": {
+    "TEXT_LEFT_01": "Feel free to",
+    "LINK_LEFT": "send me an email",
+    "TEXT_LEFT_02": "or follow me on my social medias."
+  }
+}
