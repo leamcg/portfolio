@@ -7,7 +7,7 @@
   },
   "CONTENT": {
     "INTRO_01": "Hello, je m'appelle Léa Gardavaud. Je suis une développeur web basée à Lausanne",
-    "INTRO_02": ", avec une passion pour le design d'interfaces. Je suis actuellement disponible pour du",
+    "INTRO_02": ", avec une passion pour le design d'interfaces. Je travaille chez Nexora AG et je suis également disponible pour du",
     "INTRO_LINK": "travail en freelance",
     "NOT_FOUND_TEXT_01": "Désolé, cette page n'existe pas",
     "NOT_FOUND_TEXT_02": "mais tu peux aller sur la",
@@ -19,11 +19,12 @@
       "TECHNOLOGIES": "Technologies"
     },
     "NACIS": {
-      "TITLE": "Application de gestion de badges",
+      "TITLE": "Application de gestion de badges pour une sécurité plus sûre",
       "TYPE": "Application web",
       "ROLE": "Designer & Développeur front-end",
       "TECHNOLOGIES": "Angular 5 (Typescript), TFS, HTML/CSS (Sass)",
-      "DESCRIPTION": "Le client, une des plus grosses entreprises d'agroalimentaire mondial, désirait améliorer la durabilité, la qualité, l'usabilité et la capacité du côté utilisateur de leur écosystème de gestion de badge et d'accès. Pour cela, j'ai oeuvré au développement d'un système centralisé robuste et d'une expérience front-end harmonisée pour les utilisateurs finaux. Dans ce projet, j'ai tout d'abord travaillé en amont sur l'expérience utilisateur et le design d'interface de l'application, avant de rejoindre l'équipe de développement en temps que développeur front-end."
+      "DESCRIPTION": "Le client, une des plus grosses entreprises d'agroalimentaire mondial, désirait améliorer la durabilité, la qualité, l'usabilité et la capacité du côté utilisateur de leur écosystème de gestion de badge et d'accès. Pour cela, j'ai oeuvré au développement d'un système centralisé robuste et d'une expérience front-end harmonisée pour les utilisateurs finaux. Dans ce projet, j'ai tout d'abord travaillé en amont sur l'expérience utilisateur et le design d'interface de l'application, avant de rejoindre l'équipe de développement en temps que développeur front-end.",
+      "LINK": "En savoir plus sur le projet"
     },
     "PULSE": {
       "TITLE": "Application interne de sondage de satisfaction d'employés",

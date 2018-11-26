@@ -6,8 +6,8 @@
     "SITES_I_LIKE": "Favorite websites"
   },
   "CONTENT": {
-    "INTRO_01": "Hi, my name is Léa Gardavaud. I'm a freelance front-end developer with a passion for design interfaces from Lausanne, Switzerland",
-    "INTRO_02": ". I'm currently available for",
+    "INTRO_01": "Hi, my name is Léa Gardavaud. I'm a front-end developer with a passion for design interfaces from Lausanne, Switzerland",
+    "INTRO_02": ". I'm currently working at Nexora AG and I'm also available for",
     "INTRO_LINK": "freelance work",
     "NOT_FOUND_TEXT_01": "Sorry this page doesn't exist",
     "NOT_FOUND_TEXT_02": "but here is a link to the",
@@ -19,11 +19,12 @@
       "TECHNOLOGIES": "Technologies"
     },
     "NACIS": {
-      "TITLE": "Badge management application",
+      "TITLE": "Badge management application for better security",
       "TYPE": "Web application",
       "ROLE": "Designer & Front-end developer",
       "TECHNOLOGIES": "Angular 5 (Typescript), TFS, HTML/CSS (Sass)",
-      "DESCRIPTION": "The client, one of the biggest food and drink company in the world, needed to improve the sustainability, quality, usability and capacity of the facing applications part of their badge management and access ecosystem. To do so, I worked to build a robust centralized system as well as a harmonised front-end experience to end-users. In this project, I first worked on the user experience and interface of the app before joining the development team as a front-end developer."
+      "DESCRIPTION": "The client, one of the biggest food and drink company in the world, needed to improve the sustainability, quality, usability and capacity of the facing applications part of their badge management and access ecosystem. To do so, I worked to build a robust centralized system as well as a harmonised front-end experience to end-users. In this project, I first worked on the user experience and interface of the app before joining the development team as a front-end developer.",
+      "LINK": "Read more about the case"
     },
     "PULSE": {
       "TITLE": "Internal satisfaction survey application",
